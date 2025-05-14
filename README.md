@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/michaelyangjson-mcp-ghibli-video-badge.png)](https://mseep.ai/app/michaelyangjson-mcp-ghibli-video)
+
 # mcp-server-ghibli MCP Server
 
 A TypeScript-based MCP server that provides AI image and video generation capabilities through a simple interface.
