@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/michaelyangjson-mcp-ghibli-video-badge.png)](https://mseep.ai/app/michaelyangjson-mcp-ghibli-video)
+
 # mcp-server-ghibli MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@MichaelYangjson/mcp-ghibli-video)](https://smithery.ai/server/@MichaelYangjson/mcp-ghibli-video)
