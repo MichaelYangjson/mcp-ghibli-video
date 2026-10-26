@@ -1,6 +1,6 @@
 # mcp-server-ghibli MCP Server
 
-[![smithery badge](https://smithery.ai/badge/@MichaelYangjson/mcp-ghibli-video)](https://smithery.ai/server/@MichaelYangjson/mcp-ghibli-video)
+[![LightNow capabilities](https://lightnow.ai/badge/io.github.MichaelYangjson/mcp-ghibli-video)](https://lightnow.ai/servers/io.github.MichaelYangjson/mcp-ghibli-video)
 
 A TypeScript-based MCP server that provides AI image and video generation capabilities through a simple interface.
 
